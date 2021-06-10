@@ -1,0 +1,9 @@
+<html>
+		<head>
+			<title>Prueba</title>
+		</head>
+
+
+<frameset rows=20%>
+	<frame src=pagina1.html>
+</frameset>
